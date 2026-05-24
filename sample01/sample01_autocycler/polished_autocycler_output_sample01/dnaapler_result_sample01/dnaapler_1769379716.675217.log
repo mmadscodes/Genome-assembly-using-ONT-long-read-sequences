@@ -1,0 +1,32 @@
+2026-01-25 16:21:56.681 | INFO     | dnaapler.utils.util:begin_dnaapler:71 - You are using dnaapler version 0.8.1
+2026-01-25 16:21:56.681 | INFO     | dnaapler.utils.util:begin_dnaapler:72 - Repository homepage is https://github.com/gbouras13/dnaapler
+2026-01-25 16:21:56.681 | INFO     | dnaapler.utils.util:begin_dnaapler:73 - Written by George Bouras: george.bouras@adelaide.edu.au
+2026-01-25 16:21:56.681 | INFO     | dnaapler.utils.util:begin_dnaapler:74 - Your input FASTA is consensus.fasta
+2026-01-25 16:21:56.681 | INFO     | dnaapler.utils.util:begin_dnaapler:75 - Your output directory  is dnaapler_result_sample01
+2026-01-25 16:21:56.681 | INFO     | dnaapler.utils.util:begin_dnaapler:76 - You have specified 8 threads to use with blastx
+2026-01-25 16:21:56.681 | INFO     | dnaapler.utils.util:begin_dnaapler:77 - You have specified all gene(s) to reorient your sequence
+2026-01-25 16:21:56.681 | INFO     | dnaapler.utils.util:check_blast_version:117 - Checking BLAST installation.
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:check_blast_version:137 - BLAST version found is v2.16.0.
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:check_blast_version:147 - BLAST version is ok.
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:check_pyrodigal_version:92 - Checking pyrodigal installation.
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:check_pyrodigal_version:103 - Pyrodigal version is v3.7.0
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:check_pyrodigal_version:104 - Pyrodigal version is ok.
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:begin_dnaapler:82 - Parameter: --input consensus.fasta
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:begin_dnaapler:82 - Parameter: --output dnaapler_result_sample01
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:begin_dnaapler:82 - Parameter: --threads 8
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:begin_dnaapler:82 - Parameter: --force False
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:begin_dnaapler:82 - Parameter: --prefix sample01_final
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:begin_dnaapler:82 - Parameter: --evalue 1e-10
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:begin_dnaapler:82 - Parameter: --autocomplete none
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:begin_dnaapler:82 - Parameter: --seed_value 13
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:begin_dnaapler:82 - Parameter: --ignore 
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:begin_dnaapler:82 - Parameter: --custom_db 
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.util:begin_dnaapler:82 - Parameter: --db all
+2026-01-25 16:21:56.886 | INFO     | dnaapler.utils.validation:validate_fasta_all:100 - Checking that the input file consensus.fasta is in FASTA format and has at least 1 entry.
+2026-01-25 16:21:56.887 | INFO     | dnaapler.utils.validation:validate_fasta_all:107 - consensus.fasta file checked.
+2026-01-25 16:21:56.891 | INFO     | dnaapler.utils.validation:validate_fasta_all:118 - consensus.fasta has more than one entry.
+2026-01-25 16:21:56.894 | INFO     | dnaapler.utils.validation:check_evalue:187 - You have specified an evalue of 1e-10.
+2026-01-25 16:21:56.895 | INFO     | dnaapler.utils.external_tools:run:53 - Started running blastx -db /opt/miniconda3/envs/medaka/lib/python3.10/site-packages/dnaapler/db/all_db -evalue 1e-10 -num_threads 8 -outfmt ' 6 qseqid qlen sseqid slen length qstart qend sstart send pident nident gaps mismatch evalue bitscore qseq sseq ' -out dnaapler_result_sample01/sample01_final_blast_output.txt -query consensus.fasta ...
+2026-01-25 16:23:15.874 | INFO     | dnaapler.utils.external_tools:run:55 - Done running blastx -db /opt/miniconda3/envs/medaka/lib/python3.10/site-packages/dnaapler/db/all_db -evalue 1e-10 -num_threads 8 -outfmt ' 6 qseqid qlen sseqid slen length qstart qend sstart send pident nident gaps mismatch evalue bitscore qseq sseq ' -out dnaapler_result_sample01/sample01_final_blast_output.txt -query consensus.fasta
+2026-01-25 16:23:15.890 | INFO     | dnaapler.utils.util:end_dnaapler:160 - dnaapler has finished
+2026-01-25 16:23:15.890 | INFO     | dnaapler.utils.util:end_dnaapler:161 - Elapsed time: 79.22 seconds

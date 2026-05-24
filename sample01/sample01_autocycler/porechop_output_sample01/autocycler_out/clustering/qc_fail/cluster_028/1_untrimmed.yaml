@@ -1,0 +1,8 @@
+untrimmed_cluster_size: 3
+untrimmed_cluster_lengths:
+- 11667
+- 12400
+- 10976
+untrimmed_cluster_median: 11667
+untrimmed_cluster_mad: 691
+untrimmed_cluster_distance: 0.12134831460674156

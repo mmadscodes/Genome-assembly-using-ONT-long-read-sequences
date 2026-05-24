@@ -1,0 +1,328 @@
+input_assemblies_count: 20
+input_assemblies_total_contigs: 94
+input_assemblies_total_length: 60393031
+compressed_unitig_count: 7851
+compressed_unitig_total_length: 3116501
+input_assembly_details:
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/canu_01.fasta
+  contigs:
+  - name: tig00000001
+    description: len=2800832 reads=8394 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=0-2800832 depth=31.77
+    length: 2800832
+  - name: tig00000002
+    description: len=114874 reads=374 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=0-114874 depth=29.87
+    length: 114874
+  - name: tig00000003
+    description: len=42972 reads=235 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=0-42972 depth=20.35
+    length: 42972
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/canu_02.fasta
+  contigs:
+  - name: tig00000002
+    description: len=114874 reads=385 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=0-114874 depth=30.27
+    length: 114874
+  - name: tig00000003
+    description: len=42968 reads=229 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=0-42968 depth=20.44
+    length: 42968
+  - name: tig00000004
+    description: len=2800761 reads=8390 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=0-2800761 depth=31.57
+    length: 2800761
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/canu_03.fasta
+  contigs:
+  - name: tig00000001
+    description: len=2800780 reads=8395 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=0-2800780 depth=31.94
+    length: 2800780
+  - name: tig00000002
+    description: len=114873 reads=370 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=0-114873 depth=30.27
+    length: 114873
+  - name: tig00000003
+    description: len=42973 reads=227 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=0-42973 depth=18.09
+    length: 42973
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/canu_04.fasta
+  contigs:
+  - name: tig00000002
+    description: len=114875 reads=382 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=0-114875 depth=30.71
+    length: 114875
+  - name: tig00000003
+    description: len=42971 reads=236 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=0-42971 depth=19.79
+    length: 42971
+  - name: tig00000004
+    description: len=2802094 reads=8533 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=0-2802094 depth=31.61
+    length: 2802094
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/flye_01.fasta
+  contigs:
+  - name: contig_1
+    description: circular=true depth=54
+    length: 114881
+  - name: contig_3
+    description: depth=34
+    length: 10441
+  - name: contig_4
+    description: circular=true depth=38
+    length: 2802253
+  - name: contig_5
+    description: circular=true depth=37
+    length: 42974
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/flye_02.fasta
+  contigs:
+  - name: contig_1
+    description: circular=true depth=38
+    length: 2802245
+  - name: contig_2
+    description: circular=true depth=56
+    length: 114877
+  - name: contig_3
+    description: circular=true depth=36
+    length: 42972
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/flye_03.fasta
+  contigs:
+  - name: contig_1
+    description: circular=true depth=38
+    length: 2802249
+  - name: contig_2
+    description: circular=true depth=56
+    length: 114875
+  - name: contig_3
+    description: circular=true depth=36
+    length: 42974
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/flye_04.fasta
+  contigs:
+  - name: contig_1
+    description: circular=true depth=36
+    length: 42974
+  - name: contig_2
+    description: circular=true depth=57
+    length: 114876
+  - name: contig_3
+    description: circular=true depth=38
+    length: 2802240
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/metamdbg_01.fasta
+  contigs:
+  - name: ctg0
+    description: length=2036340 coverage=33.70 circular=no
+    length: 2036340
+  - name: ctg1
+    description: length=8582 coverage=1.15 circular=no
+    length: 8582
+  - name: ctg4
+    description: length=33180 coverage=10.01 circular=no
+    length: 33180
+  - name: ctg8
+    description: length=42982 coverage=29.04 circular=yes
+    length: 42982
+  - name: ctg9
+    description: length=434950 coverage=31.57 circular=no
+    length: 434950
+  - name: ctg10
+    description: length=16167 coverage=1.07 circular=no
+    length: 16167
+  - name: ctg11
+    description: length=9136 coverage=2.72 circular=no
+    length: 9136
+  - name: ctg12
+    description: length=114880 coverage=46.80 circular=yes
+    length: 114880
+  - name: ctg14
+    description: length=386919 coverage=30.62 circular=no
+    length: 386919
+  - name: ctg15
+    description: length=52801 coverage=36.97 circular=no
+    length: 52801
+  - name: ctg16
+    description: length=17775 coverage=3.04 circular=no
+    length: 17775
+  - name: ctg17
+    description: length=25659 coverage=27.99 circular=no
+    length: 25659
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/metamdbg_02.fasta
+  contigs:
+  - name: ctg3
+    description: length=62058 coverage=1.30 circular=no
+    length: 62058
+  - name: ctg4
+    description: length=16174 coverage=1.03 circular=no
+    length: 16174
+  - name: ctg7
+    description: length=174693 coverage=32.84 circular=no
+    length: 174693
+  - name: ctg8
+    description: length=1585775 coverage=33.68 circular=no
+    length: 1585775
+  - name: ctg10
+    description: length=3353 coverage=1.07 circular=no
+    length: 3353
+  - name: ctg11
+    description: length=31948 coverage=10.38 circular=no
+    length: 31948
+  - name: ctg12
+    description: length=11667 coverage=1.11 circular=no
+    length: 11667
+  - name: ctg14
+    description: length=1327140 coverage=33.16 circular=no
+    length: 1327140
+  - name: ctg16
+    description: length=9477 coverage=2.77 circular=no
+    length: 9477
+  - name: ctg17
+    description: length=42570 coverage=30.04 circular=yes
+    length: 42570
+  - name: ctg20
+    description: length=17732 coverage=2.56 circular=no
+    length: 17732
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/metamdbg_03.fasta
+  contigs:
+  - name: ctg1
+    description: length=747405 coverage=29.53 circular=no
+    length: 747405
+  - name: ctg3
+    description: length=889416 coverage=33.87 circular=no
+    length: 889416
+  - name: ctg6
+    description: length=38876 coverage=1.07 circular=no
+    length: 38876
+  - name: ctg7
+    description: length=757123 coverage=31.76 circular=no
+    length: 757123
+  - name: ctg8
+    description: length=17445 coverage=3.59 circular=no
+    length: 17445
+  - name: ctg9
+    description: length=3353 coverage=1.22 circular=no
+    length: 3353
+  - name: ctg10
+    description: length=637227 coverage=33.50 circular=no
+    length: 637227
+  - name: ctg17
+    description: length=42969 coverage=27.54 circular=yes
+    length: 42969
+  - name: ctg18
+    description: length=12400 coverage=1.18 circular=no
+    length: 12400
+  - name: ctg19
+    description: length=7825 coverage=1.07 circular=no
+    length: 7825
+  - name: ctg20
+    description: length=114876 coverage=48.22 circular=yes
+    length: 114876
+  - name: ctg23
+    description: length=3806 coverage=1.97 circular=no
+    length: 3806
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/metamdbg_04.fasta
+  contigs:
+  - name: ctg0
+    description: length=10976 coverage=1.11 circular=no
+    length: 10976
+  - name: ctg2
+    description: length=3353 coverage=1.12 circular=no
+    length: 3353
+  - name: ctg3
+    description: length=9136 coverage=2.50 circular=no
+    length: 9136
+  - name: ctg5
+    description: length=53533 coverage=1.14 circular=no
+    length: 53533
+  - name: ctg7
+    description: length=29533 coverage=2.83 circular=no
+    length: 29533
+  - name: ctg8
+    description: length=16165 coverage=1.12 circular=no
+    length: 16165
+  - name: ctg9
+    description: length=42003 coverage=1.40 circular=no
+    length: 42003
+  - name: ctg10
+    description: length=1232177 coverage=31.40 circular=no
+    length: 1232177
+  - name: ctg12
+    description: length=114876 coverage=47.94 circular=yes
+    length: 114876
+  - name: ctg13
+    description: length=1662299 coverage=35.25 circular=no
+    length: 1662299
+  - name: ctg14
+    description: length=3806 coverage=1.76 circular=no
+    length: 3806
+  - name: ctg17
+    description: length=8048 coverage=1.21 circular=no
+    length: 8048
+  - name: ctg18
+    description: length=35980 coverage=1.11 circular=no
+    length: 35980
+  - name: ctg21
+    description: length=42979 coverage=29.09 circular=yes
+    length: 42979
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/miniasm_01.fasta
+  contigs:
+  - name: utg000001c
+    description: circular=true depth=37.764
+    length: 2841129
+  - name: utg000002c
+    description: circular=true depth=35.967
+    length: 42975
+  - name: utg000003l
+    description: depth=45.423
+    length: 163941
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/miniasm_02.fasta
+  contigs:
+  - name: utg000001l
+    description: depth=37.813
+    length: 2778371
+  - name: utg000002l
+    description: depth=46.096
+    length: 163952
+  - name: utg000003c
+    description: circular=true depth=34.945
+    length: 42974
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/miniasm_03.fasta
+  contigs:
+  - name: utg000001c
+    description: circular=true depth=37.873
+    length: 2802223
+  - name: utg000002l
+    description: depth=46.214
+    length: 163955
+  - name: utg000003c
+    description: circular=true depth=33.676
+    length: 42974
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/miniasm_04.fasta
+  contigs:
+  - name: utg000001c
+    description: circular=true depth=37.659
+    length: 2802258
+  - name: utg000002l
+    description: depth=49.634
+    length: 150645
+  - name: utg000003c
+    description: circular=true depth=34.881
+    length: 42973
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/raven_01.fasta
+  contigs:
+  - name: Utg622
+    description: LN:i:2802259 RC:i:280 XO:i:1
+    length: 2802259
+  - name: Utg626
+    description: LN:i:114889 RC:i:10 XO:i:1
+    length: 114889
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/raven_02.fasta
+  contigs:
+  - name: Utg644
+    description: LN:i:2802226 RC:i:290 XO:i:1
+    length: 2802226
+  - name: Utg648
+    description: LN:i:114887 RC:i:12 XO:i:1
+    length: 114887
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/raven_03.fasta
+  contigs:
+  - name: Utg674
+    description: LN:i:2802208 RC:i:306 XO:i:1
+    length: 2802208
+  - name: Utg678
+    description: LN:i:114869 RC:i:12 XO:i:1
+    length: 114869
+- filename: sample01_autocycler/porechop_output_sample01/assemblies/raven_04.fasta
+  contigs:
+  - name: Utg680
+    description: LN:i:114868 RC:i:12 XO:i:1
+    length: 114868
+  - name: Utg682
+    description: LN:i:2802234 RC:i:308 XO:i:1
+    length: 2802234

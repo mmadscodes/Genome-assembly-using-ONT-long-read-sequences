@@ -1,0 +1,20 @@
+untrimmed_cluster_size: 15
+untrimmed_cluster_lengths:
+- 42972
+- 42968
+- 42973
+- 42971
+- 42974
+- 42972
+- 42974
+- 42974
+- 42982
+- 42969
+- 42979
+- 42975
+- 42974
+- 42974
+- 42973
+untrimmed_cluster_median: 42974
+untrimmed_cluster_mad: 1
+untrimmed_cluster_distance: 0.0002792321116928557

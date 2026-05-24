@@ -1,0 +1,14 @@
+trimmed_cluster_size: 10
+trimmed_cluster_lengths:
+- 2802252
+- 2802245
+- 2802248
+- 2802239
+- 2802223
+- 2802258
+- 2802259
+- 2802226
+- 2802208
+- 2802234
+trimmed_cluster_median: 2802242
+trimmed_cluster_mad: 13

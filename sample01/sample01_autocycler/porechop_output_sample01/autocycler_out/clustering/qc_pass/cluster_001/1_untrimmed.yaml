@@ -1,0 +1,20 @@
+untrimmed_cluster_size: 15
+untrimmed_cluster_lengths:
+- 2800832
+- 2800761
+- 2800780
+- 2802094
+- 2802253
+- 2802245
+- 2802249
+- 2802240
+- 2841129
+- 2802223
+- 2802258
+- 2802259
+- 2802226
+- 2802208
+- 2802234
+untrimmed_cluster_median: 2802234
+untrimmed_cluster_mad: 24
+untrimmed_cluster_distance: 0.0008940643318872213

@@ -1,0 +1,10 @@
+PASS	Basic Statistics	FAY99780_pass_barcode08_98e12ebb_5ad7f319_0.fastq.gz
+WARN	Per base sequence quality	FAY99780_pass_barcode08_98e12ebb_5ad7f319_0.fastq.gz
+PASS	Per sequence quality scores	FAY99780_pass_barcode08_98e12ebb_5ad7f319_0.fastq.gz
+FAIL	Per base sequence content	FAY99780_pass_barcode08_98e12ebb_5ad7f319_0.fastq.gz
+WARN	Per sequence GC content	FAY99780_pass_barcode08_98e12ebb_5ad7f319_0.fastq.gz
+PASS	Per base N content	FAY99780_pass_barcode08_98e12ebb_5ad7f319_0.fastq.gz
+WARN	Sequence Length Distribution	FAY99780_pass_barcode08_98e12ebb_5ad7f319_0.fastq.gz
+PASS	Sequence Duplication Levels	FAY99780_pass_barcode08_98e12ebb_5ad7f319_0.fastq.gz
+WARN	Overrepresented sequences	FAY99780_pass_barcode08_98e12ebb_5ad7f319_0.fastq.gz
+PASS	Adapter Content	FAY99780_pass_barcode08_98e12ebb_5ad7f319_0.fastq.gz

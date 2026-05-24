@@ -1,0 +1,18 @@
+trimmed_cluster_size: 14
+trimmed_cluster_lengths:
+- 42972
+- 42973
+- 42971
+- 42974
+- 42972
+- 42974
+- 42974
+- 42975
+- 42969
+- 42975
+- 42975
+- 42974
+- 42974
+- 42973
+trimmed_cluster_median: 42974
+trimmed_cluster_mad: 1

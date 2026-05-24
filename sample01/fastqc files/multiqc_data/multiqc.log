@@ -1,0 +1,2 @@
+[2025-02-26 20:01:53,902] multiqc.core.file_search                           [INFO   ]  Search path: /Users/SHSU/Library/CloudStorage/OneDrive-SamHoustonStateUniversity/Sam Houston State University/Karki_Lab/Research Projects/Sequencing Enterococcus/12 Enterococcus sequence reads_high accuracy base calling/no_sample_id/20250224_1832_MN46331_FAY99780_98e12ebb/fastq_pass/barcode08/fastqc files
+[2025-02-26 20:02:03,850] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 154 reports

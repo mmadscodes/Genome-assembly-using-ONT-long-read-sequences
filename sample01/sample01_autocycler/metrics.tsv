@@ -1,0 +1,2 @@
+name	input_read_count	input_read_bases	input_read_n50	pass_cluster_count	fail_cluster_count	overall_clustering_score	untrimmed_cluster_size	untrimmed_cluster_distance	trimmed_cluster_size	trimmed_cluster_median	trimmed_cluster_mad	consensus_assembly_bases	consensus_assembly_unitigs	consensus_assembly_fully_resolved
+porechop_output_sample01				3	31	0.714	[15,20,15]	[0.000894,0.0231,0.000279]	[10,16,14]	[2802242,114876,42974]	[13,1,1]	2960112	3	true
